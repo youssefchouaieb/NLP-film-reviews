@@ -1,0 +1,60 @@
+film_id,title,author,genre,actors,date
+246819,Coma - Esprits prisonniers,Nikita Argunov,"['Science fiction', 'Action']","['Rinal Mukhametov', 'Lyubov Aksyonova', 'Milos Bikovic']",19 août 2020
+272648,Into the Beat,Stefan Westerwelle,"['Famille', 'Drame']","['Alexandra Pfeifer', 'Yalany Marschner', 'Ina Geraldine Guy']",16 avril 2021
+275355,30 jours max,Tarek Boudali,"['Comédie', 'Policier']","['Tarek Boudali', 'Philippe Lacheau', 'Julien Arruti']",14 octobre 2020
+268345,Joyeuse retraite !,Fabrice Bracq,['Comédie'],"['Thierry Lhermitte', 'Michèle Laroque', 'Nicole Ferroni']",20 novembre 2019
+255238,Parasite,Bong Joon Ho,['Thriller'],"['Song Kang-Ho', 'Woo-sik Choi', 'Park So-Dam']",5 juin 2019
+266065,After - Chapitre 1,Jenny Gage,"['Romance', 'Drame']","['Josephine Langford', 'Hero Fiennes Tiffin', 'Samuel Larsen']",17 avril 2019
+256424,Le Chant du Loup,Antonin Baudry,"['Thriller', 'Guerre', 'Action']","['François Civil', 'Omar Sy', 'Mathieu Kassovitz']",20 février 2019
+264387,Donne-moi des ailes,Nicolas Vanier,"['Aventure', 'Famille']","['Louis Vazquez', 'Jean-Paul Rouve', 'Mélanie Doutey']",9 octobre 2019
+257482,Once Upon a Time… in Hollywood,Quentin Tarantino,"['Drame', 'Comédie']","['De', 'Quentin Tarantino']",14 août 2019
+266409,La Vie scolaire,Grand Corps Malade,"['Drame', 'Comédie']","['Zita Hanrot', 'Liam Pierron', 'Soufiane Guerrab']",28 août 2019
+258374,Joker,Todd Phillips,['Drame'],"['Joaquin Phoenix', 'Robert De Niro', 'Zazie Beetz']",9 octobre 2019
+262383,OSS 117: Alerte rouge en Afrique noire,Nicolas Bedos,"['Comédie', 'Espionnage', 'Aventure']","['Jean Dujardin', 'Pierre Niney', ""Fatou N'Diaye""]",4 août 2021
+276295,La vie devant soi,Edoardo Ponti,['Drame'],"['Sophia Loren', 'Ibrahima Gueye', 'Renato Carpentieri']",13 novembre 2020
+232669,Avengers: Endgame,Joe Russo,"['Action', 'Fantastique', 'Aventure']","['Robert Downey Jr.', 'Chris Evans', 'Mark Ruffalo']",24 avril 2019
+257122,Downton Abbey,Michael Engler,"['Drame', 'Historique']","['Michelle Dockery', 'Hugh Bonneville', 'Maggie Smith']",25 septembre 2019
+222291,Spider-Man: Far From Home,Jon Watts,"['Action', 'Aventure']","['Tom Holland', 'Jake Gyllenhaal', 'Zendaya']",3 juillet 2019
+258998,Jojo Rabbit,Taika Waititi,"['Guerre', 'Drame', 'Comédie']","['Roman Griffin Davis', 'Thomasin McKenzie', 'Scarlett Johansson']",29 janvier 2020
+275065,7. Koğuştaki Mucize,Mehmet Ada Öztekin,['Drame'],"['Aras Bulut İynemli', 'Nisa Sofiya Aksongur', 'Deniz Baysal']",13 mars 2020
+291663,Enrico Piaggio - An Italian Dream,Umberto Marino,['Biopic'],"['Violante Placido', 'Alessio Boni', 'Francesco Pannofino']",31 mars 2021
+248191,Kaamelott – Premier volet,Alexandre Astier,"['Comédie', 'Aventure', 'Historique']","['Alexandre Astier', 'Lionnel Astier', 'Alain Chabat']",21 juillet 2021
+267546,À couteaux tirés,Rian Johnson,"['Policier', 'Drame', 'Comédie']","['Daniel Craig', 'Chris Evans', 'Ana de Armas']",27 novembre 2019
+265905,Hors Normes,Eric Toledano,['Comédie'],"['Vincent Cassel', 'Reda Kateb', 'Hélène Vincent']",23 octobre 2019
+258016,La Plateforme,Galder Gaztelu-Urrutia,"['Science fiction', 'Epouvante-horreur']","['Ivan Massagué', 'Zorion Eguileor', 'Antonia San Juan']",20 mars 2020
+272014,Poly,Nicolas Vanier,"['Aventure', 'Famille']","['François Cluzet', 'Julie Gayet', 'Elisa de Lambert']",21 octobre 2020
+256245,"Extremely Wicked, Shockingly Evil and Vile",Joe Berlinger,"['Thriller', 'Drame', 'Biopic']","['Zac Efron', 'Lily Collins', 'Kaya Scodelario']",3 mai 2019
+265567,1917,Sam Mendes,"['Drame', 'Guerre']","['George MacKay', 'Dean-Charles Chapman', 'Mark Strong']",15 janvier 2020
+262182,La Fille au bracelet,Stéphane Demoustier,"['Drame', 'Judiciaire']","['Melissa Guers', 'Roschdy Zem', 'Chiara Mastroianni']",12 février 2020
+146552,Terminator: Dark Fate,Tim Miller,"['Action', 'Science fiction']","['Arnold Schwarzenegger', 'Linda Hamilton', 'Mackenzie Davis']",23 octobre 2019
+264668,Midsommar,Ari Aster,['Epouvante-horreur'],"['Florence Pugh', 'Jack Reynor', 'Will Poulter']",31 juillet 2019
+258022,Mignonnes,Maimouna Doucouré,"['Drame', 'Comédie']","['Fathia Youssouf', 'Medina El Aidi', 'Esther Gohourou']",19 août 2020
+243860,Togo,Ericson Core,"['Aventure', 'Famille', 'Historique']","['Willem Dafoe', 'Julianne Nicholson', 'Christopher Heyerdahl']",7 avril 2020
+270878,Ducobu 3,Elie Semoun,['Comédie'],"['De', 'Elie Semoun']",5 février 2020
+259452,Mon Inconnue,Hugo Gélin,"['Comédie', 'Romance']","['François Civil', 'Joséphine Japy', 'Benjamin Lavernhe']",3 avril 2019
+276680,Opération Portugal,Frank Cimière,['Comédie'],"['D’Jal', 'Sarah Perles', 'Pierre Azéma']",23 juin 2021
+258262,Les Éblouis,Sarah Suco,['Drame'],"['Camille Cottin', 'Jean-Pierre Darroussin', 'Eric Caravaca']",20 novembre 2019
+273579,Les Misérables,Ladj Ly,"['Policier', 'Drame']","['Damien Bonnard', 'Alexis Manenti', 'Djebril Didier Zonga']",20 novembre 2019
+269541,La Fracture,Brad Anderson,"['Thriller', 'Action']","['Sam Worthington', 'Lily Rabe', 'Stephen Tobolowsky']",11 octobre 2019
+263810,Mes jours de gloire,Antoine de Bary,['Comédie'],"['Vincent Lacoste', 'Emmanuelle Devos', 'Christophe Lambert']",26 février 2020
+262124,Jumanji: next level,Jake Kasdan,"['Aventure', 'Comédie']","['Dwayne Johnson', 'Jack Black', 'Kevin Hart']",4 décembre 2019
+139628,The Irishman,Martin Scorsese,"['Thriller', 'Biopic']","['Robert De Niro', 'Al Pacino', 'Joe Pesci']",27 novembre 2019
+259650,Anna,Luc Besson,"['Action', 'Thriller']","['Sasha Luss', 'Helen Mirren', 'Luke Evans']",10 juillet 2019
+269982,Qu'un sang impur...,Abdel Raouf Dafri,"['Guerre', 'Drame']","['Johan Heldenbergh', 'Linh-Dan Pham', 'Lyna Khoudri']",22 janvier 2020
+269509,Dark Waters,Todd Haynes,"['Biopic', 'Drame']","['Mark Ruffalo', 'Anne Hathaway', 'Tim Robbins']",26 février 2020
+271236,Bronx,Olivier Marchal,"['Policier', 'Action', 'Drame']","['Lannick Gautry', 'Stanislas Merhar', 'Kaaris']",30 octobre 2020
+228997,Godzilla 2 - Roi des Monstres,Michael Dougherty,"['Action', 'Science fiction']","['Kyle Chandler', 'Vera Farmiga', 'Millie Bobby Brown']",29 mai 2019
+247520,Ad Astra,James Gray,"['Science fiction', 'Drame']","['Brad Pitt', 'Tommy Lee Jones', 'Ruth Negga']",18 septembre 2019
+263312,Les Siffleurs,Corneliu Porumboiu,['Thriller'],"['Vlad Ivanov', 'Catrinel Marlon', 'Rodica Lazar']",8 janvier 2020
+141110,Captain Marvel,Anna Boden,"['Action', 'Fantastique', 'Science fiction']","['Brie Larson', 'Samuel L. Jackson', 'Jude Law']",6 mars 2019
+254025,L'Ombre de Staline,Agnieszka Holland,"['Biopic', 'Drame']","['James Norton', 'Vanessa Kirby', 'Peter Sarsgaard']",22 juin 2020
+215094,Star Wars: L'Ascension de Skywalker,J.J. Abrams,"['Science fiction', 'Aventure']","['Daisy Ridley', 'Adam Driver', 'Oscar Isaac']",18 décembre 2019
+257787,Je m'appelle Bagdad,Caru Alves de Souza,['Drame'],"['Grace Orsato', 'Carlota Joaquina', 'Karina Buhr']",2 juin 2021
+266163,The Dead Don't Die,Jim Jarmusch,"['Comédie', 'Epouvante-horreur']","['Bill Murray', 'Adam Driver', 'Tilda Swinton']",14 mai 2019
+270615,Seules Les Bêtes,Dominik Moll,"['Thriller', 'Policier', 'Drame']","['Denis Ménochet', 'Laure Calamy', 'Damien Bonnard']",4 décembre 2019
+265430,The Way Back,Gavin O'Connor,['Drame'],"['Ben Affleck', 'Al Madrigal', 'Janina Gavankar']",28 avril 2020
+269154,The Courier,Zackary Adler,"['Thriller', 'Action', 'Drame']","['Gary Oldman', 'Olga Kurylenko', 'Dermot Mulroney']",15 juillet 2020
+61280,Alita : Battle Angel,Robert Rodriguez,"['Science fiction', 'Action']","['Rosa Salazar', 'Christoph Waltz', 'Jennifer Connelly']",13 février 2019
+275130,L'Homme du Labyrinthe,Alessandro Usai,"['Epouvante-horreur', 'Thriller']","['Dustin Hoffman', 'Valentina Bellè', 'Toni Servillo']",21 avril 2021
+259993,Le Garçon qui dompta le vent,Chiwetel Ejiofor,['Drame'],"['Maxwell Simba', 'Chiwetel Ejiofor', 'Aïssa Maïga']",1 mars 2019
+276311,Rocks,Sarah Gavron,['Drame'],"['Bukky Bakray', 'Kosar Ali', ""D'angelou Osei Kissiedu""]",9 septembre 2020
